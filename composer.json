@@ -1,0 +1,17 @@
+{
+    "require": {
+        "symfony/validator": "^6.0"
+    },
+    "name": "dazzlo2292/miet_pius" ,
+	"autoload" : { 
+		"psr-4": { 
+			"App\\": "app/",
+			"Database\\Factories\\" : "database/factories/",
+			"Database\\Seeders\\" : "database/seeders/"
+		},
+		"files": [ 
+			"vendor/symfony/validator/validator.php"
+		]
+	}
+}
+
