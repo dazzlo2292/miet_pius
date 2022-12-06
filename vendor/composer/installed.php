@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '64a4d32b595a3bc46d9ce1eff8fdd3c5675de1d3',
+        'reference' => '9ef0db97a425f233bc5dfd5e6f8f16d95754b418',
         'name' => 'dazzlo2292/miet_pius',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '64a4d32b595a3bc46d9ce1eff8fdd3c5675de1d3',
+            'reference' => '9ef0db97a425f233bc5dfd5e6f8f16d95754b418',
             'dev_requirement' => false,
         ),
         'symfony/polyfill-ctype' => array(

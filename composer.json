@@ -10,7 +10,7 @@
 			"Database\\Seeders\\" : "database/seeders/"
 		},
 		"files": [ 
-			"vendor/symfony/validator/validator.php"
+			"vendor/autoload.php"
 		]
 	}
 }
